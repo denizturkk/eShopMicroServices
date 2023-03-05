@@ -1,7 +1,7 @@
 ﻿using System;
 namespace EventBus.Base.Events
 {
-	public class BaseEventBus
+	public abstract class BaseEventBus
 	{
 		public BaseEventBus()
 		{
