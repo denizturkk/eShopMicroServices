@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "603wG0IIaO1brzNBEuHdChXnYIyH7jWNQYLxUTTKuha3NHD6vfZmK7u+9TaI0rUvg1UBA5wgm18GWVBuvZx+Vg==",
+  "success": true,
+  "projectFilePath": "/Users/denizturkk/Projects/SellingBuddy/src/Services/CatalogService/CatalogService.Api/CatalogService.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/denizturkk/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/denizturkk/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

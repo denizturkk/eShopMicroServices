@@ -1,0 +1,12 @@
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/bin/Debug/net7.0/EventBus.Base.deps.json
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/bin/Debug/net7.0/EventBus.Base.dll
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/bin/Debug/net7.0/EventBus.Base.pdb
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.csproj.AssemblyReference.cache
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.AssemblyInfoInputs.cache
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.AssemblyInfo.cs
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.csproj.CoreCompileInputs.cache
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.dll
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/refint/EventBus.Base.dll
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/EventBus.Base.pdb
+/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/Debug/net7.0/ref/EventBus.Base.dll
