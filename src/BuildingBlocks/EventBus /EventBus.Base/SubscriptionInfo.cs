@@ -3,7 +3,8 @@ namespace EventBus.Base
 {
 	public class SubscriptionInfo
 	{
-        //dışarıdan gönderilen verilerin tutulması için
+        //dışarıdan gönderilen verilerin ıcerıde tutulması için
+        //bize gonderilen integration eventın tipini tutucaz
 		public Type HandlerType { get; }
 
         public SubscriptionInfo(Type handlerType)

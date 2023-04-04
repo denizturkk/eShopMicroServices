@@ -4,14 +4,14 @@
     "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj": {}
   },
   "projects": {
-    "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj": {
+    "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/EventBus.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj",
-        "projectName": "EventBus.RabbitMQ",
-        "projectPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj",
+        "projectUniqueName": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/EventBus.Base.csproj",
+        "projectName": "EventBus.Base",
+        "projectPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/EventBus.Base.csproj",
         "packagesPath": "/Users/denizturkk/.nuget/packages/",
-        "outputPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/obj/",
+        "outputPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/denizturkk/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,83 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj",
+        "projectName": "EventBus.RabbitMQ",
+        "projectPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/EventBus.RabbitMQ.csproj",
+        "packagesPath": "/Users/denizturkk/.nuget/packages/",
+        "outputPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.RabbitMQ/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizturkk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/EventBus.Base.csproj": {
+                "projectPath": "/Users/denizturkk/Projects/SellingBuddy/src/BuildingBlocks/EventBus /EventBus.Base/EventBus.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -15,7 +15,7 @@ namespace EventBus.Base.SubManagers
 
         public event EventHandler<string> OnEventRemoved;
         public Func<string, string> eventNameGetter;
-
+            
         public InMemoryEventBusSubscriptionManager(Func<string, string> eventNameGetter)
         {
             _handlers = new Dictionary<string, List<SubscriptionInfo>>();
